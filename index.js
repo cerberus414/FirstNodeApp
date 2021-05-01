@@ -14,5 +14,5 @@ var bar = function() {
     console.log(rest);
 };
 
-foo();
+//foo();
 bar();
